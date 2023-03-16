@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    background-color: dodgerblue;
+    padding: 0px;
+    
+}
+
+.navBar{
+    background-color: khaki;
+    text-align: right;
+    height:auto;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+}
+
+li{
+   list-style-type:none;
+}
+
+.header{
+    height: 20px;
+    margin: 0px;
+    border-image-width: 50px;
+    text-align: left;
+}
+
+.indexText1{
+    Padding: 10px;
+    max-width: 300px;
+    
+}
+
+.indexImage1{
+width: 100px;
+height: 100px;
+padding: 0px;
+margin: 0px;
+vertical-align: top;
+}
+.flexContainer{
+    list-style: none;
+    padding: 15px;
+}
